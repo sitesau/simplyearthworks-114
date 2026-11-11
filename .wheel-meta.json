@@ -1,0 +1,22 @@
+{
+  "wheel_id": 870,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-114",
+  "project": "earthmoving-adelaide-quotes-explained-6813a6766152f6a6a6c20b49d",
+  "parent_t1_ref": "simplyearthworks-156",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide quotes explained",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-adelaide-quotes-explained-6813a6766152f6a6a6c20b49d/",
+  "tier": "T2",
+  "writeback_nonce": "10276dd01b687b48",
+  "links": [
+    {
+      "target_url": "http://earthmoving-adelaide-myths-ab03a61b987f6ed801c26b265dce783e13a0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Earthmoving Adelaide Myths: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
